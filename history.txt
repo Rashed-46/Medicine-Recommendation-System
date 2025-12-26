@@ -1,0 +1,10 @@
+2025-12-25 20:59:26 | acid reflux -> Ranitidine
+2025-12-25 20:59:32 | allergy -> Cetirizine
+2025-12-25 20:59:35 | allergy, back pain -> Cetirizine
+2025-12-25 20:59:57 | vomiting -> Domperidone
+2025-12-25 21:00:04 | stomach ache -> Antacid
+2025-12-25 21:53:02 | body pain, stomach ache -> Antacid
+2025-12-25 21:53:03 | body pain, stomach ache -> Antacid
+2025-12-25 21:53:08 | body pain -> Ibuprofen
+2025-12-25 21:53:19 | diarrhea -> ORS
+2025-12-26 22:59:05 | gas bloating -> Simethicone

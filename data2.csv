@@ -1,0 +1,19 @@
+symptoms,disease,medicine,uses,dosage,side_effects
+fever cough,flu,Paracetamol,Reduces fever and relieves pain,500mg every 4-6 hours,"Nausea, liver damage (overdose)"
+headache,migraine,Aspirin,Relieves headache and inflammation,300-600mg every 4-6 hours,"Stomach upset, bleeding"
+cold sore throat,common_cold,Antihistamine,Treats cold and allergies,10mg once daily,"Drowsiness, dry mouth"
+stomach ache,gastritis,Antacid,Relieves stomach acidity,10-20ml after meals,"Constipation, dizziness"
+vomiting,nausea,Domperidone,Treats nausea and vomiting,10mg twice daily,"Dry mouth, fatigue"
+body pain,inflammation,Ibuprofen,Relieves pain and inflammation,200-400mg every 6-8 hours,"Stomach upset, dizziness"
+allergy,allergic_rhinitis,Cetirizine,Treats allergy symptoms,10mg once daily,"Drowsiness, headache"
+diarrhea,dehydration,ORS,Prevents dehydration,1 sachet after each stool,"Nausea, bloating"
+throat pain,sore_throat,Strepsils,Soothes sore throat,1 lozenge every 2-3 hours,"Numbness, dry mouth"
+sneezing runny nose,allergic_cold,Loratadine,Relieves cold symptoms,10mg once daily,Drowsiness
+acid reflux,GERD,Ranitidine,Treats acid reflux,150mg twice daily,"Headache, constipation"
+back pain,muscle_pain,Naproxen,Treats back pain,250-500mg twice daily,"Drowsiness, heartburn"
+constipation,constipation,Lactulose,Relieves constipation,15ml once daily,"Diarrhea, cramping"
+eye redness,eye_irritation,Eyedrop,Soothes eye irritation,1-2 drops thrice daily,Temporary burning
+dizziness,vertigo,Nortriptyline,Treats dizziness,25mg at bedtime,"Dry mouth, blurred vision"
+skin rash,dermatitis,Hydrocortisone,Treats skin inflammation,Apply twice daily,"Itching, redness"
+tooth pain,dental_pain,Diclofenac,Relieves tooth pain,50mg every 8 hours,"Stomach pain, nausea"
+gas bloating,flatulence,Simethicone,Reduces gas and bloating,80mg after meals,"Bloating, burping"
