@@ -5,7 +5,7 @@ This project implements a **Bayesian Network–based machine learning system** t
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📌 Features
-- Bayesian Network model (not Naive Bayes)
+- Bayesian Network model 
 - Symptom → Disease → Medicine inference
 - Probabilistic reasoning under uncertainty
 - Tkinter-based interactive GUI
